@@ -15,9 +15,9 @@ try{
 export default new Vuex.Store({
     state:{
         user:defaultuser,
-        api:'https://pledge.hejiajinrong.com',
-          //api:'http://192.168.33.90:10092',
-          //api:'http://pledge.xunji.info',
+        api:'https://********',
+          //api:'http://********',
+          //api:'http://********',
           Awidth:'',
           Aheight:''
     },
